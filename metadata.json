@@ -1,0 +1,5 @@
+{
+  "name": "MAC-PM-ME_Checklist",
+  "description": "Tablet-friendly app for recording daily machine test run and PM data.",
+  "requestFramePermissions": []
+}
